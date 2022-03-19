@@ -18,3 +18,7 @@ Here is the demo of the app:
 4. Draw:
 
  ![draw](https://user-images.githubusercontent.com/101935120/159124092-75b1f7d3-e2fa-4a2e-a643-fade9cd062a6.gif)
+
+5. Reset:
+
+![reset](https://user-images.githubusercontent.com/101935120/159124488-18208594-e3a8-4682-a88e-c49bd11854db.gif)
